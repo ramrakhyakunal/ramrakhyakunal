@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Software Developer with extensive experience, specialising in engineering and<br>augmenting data systems. Notable achievements include increasing processing speed by nearly 40% through<br>optimised SQL procedures and reducing query latency by approximately 30%. Proficient in SQL, Power BI, Excel<br>Python, .NET and Angular, with a strong focus on ETL processes, KPI design, and business intelligence strategies.<br>Successfully automated data quality checks, saving significant time weekly. Career goals include further enhancing<br>data-driven decision-making processes and leading innovative projects in Business and Data Analytical field.
+Senior Software Developer with extensive experience, specialising in engineering and augmenting data systems. Notable achievements include increasing processing speed by nearly 40% through<br>optimised SQL procedures and reducing query latency by approximately 30%. Proficient in SQL, Power BI, Excel<br>Python, .NET and Angular, with a strong focus on ETL processes, KPI design, and business intelligence strategies.<br>Successfully automated data quality checks, saving significant time weekly. Career goals include further enhancing<br>data-driven decision-making processes and leading innovative projects in Business and Data Analytical field.
 
 
 ## 🌐 Socials:
